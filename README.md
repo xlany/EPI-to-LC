@@ -72,7 +72,7 @@ Mappings for:
     <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">10.6</a></td>
     </tr>
             <tr>
-    <td><a href="">11.1</a></td>
+    <td><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">11.1</a></td>
     <td><a href="https://leetcode.com/problems/sqrtx/">11.4</a>, <a href="https://leetcode.com/problems/kth-largest-element-in-an-array">11.8</a></td>
     <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array">11.3</a>, <a href="">11.9</a></td>
     <td><a href="">11.5</a>, <a href="">11.10</a></td>
@@ -270,7 +270,7 @@ Mappings for:
 
 | Problem | LeetCode |
 |---------|----------|
-| 11.1       | []() |
+| 11.1       | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | 11.2 | []() |
 | 11.3 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
 | 11.4 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
