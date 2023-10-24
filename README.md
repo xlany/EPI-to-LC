@@ -66,7 +66,7 @@ Mappings for:
     </tr>
             <tr>
     <td><a href="">10.1</a></td>
-    <td><a href="https://leetcode.com/problems/merge-k-sorted-lists">10.1</a></td>
+    <td><a href="https://leetcode.com/problems/merge-k-sorted-lists/">10.1</a></td>
     <td><a href="">10.3</a></td>
     <td><a href="">10.5</a></td>
     <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">10.6</a></td>
