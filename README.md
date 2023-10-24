@@ -65,8 +65,8 @@ Mappings for:
     <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">9.13</a>, <a href="">9.16</a></td>
     </tr>
             <tr>
-    <td><a href="">10.1</a></td>
     <td><a href="https://leetcode.com/problems/merge-k-sorted-lists/">10.1</a></td>
+    <td><a href="https://leetcode.com/problems/k-closest-points-to-origin/">10.4</a></td>
     <td><a href="">10.3</a></td>
     <td><a href="">10.5</a></td>
     <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">10.6</a></td>
