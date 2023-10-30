@@ -80,7 +80,7 @@ Mappings for:
     </tr>
             <tr>
     <td><a href="https://leetcode.com/problems/ransom-note/">12.2</a></td>
-    <td><a href="">12.3</a>, <a href="">12.5</a></td>
+    <td><a href="https://leetcode.com/problems/lru-cache/">12.3</a>, <a href="">12.5</a></td>
     <td><a href="https://leetcode.com/problems/palindrome-permutation">12.1</a>, <a href="">12.5</a></td>
     <td><a href="">12.4</a>, <a href="https://leetcode.com/problems/minimum-window-substring">12.6</a></td>
     <td><a href="">12.9</a></td>
@@ -287,7 +287,7 @@ Mappings for:
 |---------|----------|
 | 12.1       | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) |
 | 12.2 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) |
-| 12.3 | []() |
+| 12.3 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) |
 | 12.4 | []() |
 | 12.5 | []() |
 | 12.6 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) note: strings instead of arrays |
