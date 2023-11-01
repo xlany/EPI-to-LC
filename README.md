@@ -86,7 +86,7 @@ Mappings for:
     <td><a href="">12.9</a></td>
     </tr>
             <tr>
-    <td><a href="">13.1</a></td>
+    <td><a href="https://leetcode.com/problems/intersection-of-three-sorted-arrays/">13.1</a></td>
     <td><a href="https://leetcode.com/problems/merge-sorted-array">13.2</a></td>
     <td><a href="">13.6</a></td>
     <td><a href="">13.8</a>, <a href="">13.11</a></td>
@@ -302,7 +302,7 @@ Mappings for:
 
 | Problem | LeetCode |
 |---------|----------|
-| 13.1    | []() |
+| 13.1 | [1213. Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/) |
 | 13.2 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) |
 | 13.3 | [274. H-Index](https://leetcode.com/problems/h-index/) |
 | 13.4 | []() |
