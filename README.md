@@ -1,3 +1,6 @@
+Forked from https://github.com/slgriff/EPI-to-LC (not updated since 2021)
+Use this repo because it is updated as of Nov 2023 
+
 Mappings for:
 * Java edition &copy; 2019
 * Python edition &copy; 2019
