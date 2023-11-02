@@ -91,7 +91,7 @@ Mappings for:
             <tr>
     <td><a href="https://leetcode.com/problems/intersection-of-three-sorted-arrays/">13.1</a></td>
     <td><a href="https://leetcode.com/problems/merge-sorted-array">13.2</a></td>
-    <td><a href="">13.6</a></td>
+    <td><a href="https://leetcode.com/problems/my-calendar-iii/">13.6</a></td>
     <td><a href="">13.8</a>, <a href="">13.11</a></td>
     <td><a href="">13.9</a></td>
     </tr>
@@ -310,7 +310,7 @@ Mappings for:
 | 13.3 | [274. H-Index](https://leetcode.com/problems/h-index/) |
 | 13.4 | []() |
 | 13.5 | []() |
-| 13.6 | []() |
+| 13.6 | [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) |
 | 13.7 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) |
 | 13.8 | []() |
 | 13.9 | []() |
