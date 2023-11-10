@@ -97,7 +97,7 @@ Mappings for:
     </tr>
             <tr>
     <td><a href="https://leetcode.com/problems/validate-binary-search-tree">14.1</a></td>
-    <td><a href="https://leetcode.com/problems/inorder-successor-in-bst">14.2</a>, <a href="">14.3</a></td>
+    <td><a href="https://leetcode.com/problems/inorder-successor-in-bst">14.2</a>, <a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">14.3</a></td>
     <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">14.4</a></td>
     <td><a href="">14.5</a>, <a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree">14.8</a></td>
     <td><a href="">14.7</a></td>
@@ -324,7 +324,7 @@ Mappings for:
 |---------|----------|
 | 14.1       | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
 | 14.2 | [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) |
-| 14.3 | []() |
+| 14.3 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) note: kth smallest instead of k biggest|
 | 14.4 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
 | 14.5 | []() |
 | 14.6 | []() |
