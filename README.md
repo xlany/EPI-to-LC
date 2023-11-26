@@ -104,7 +104,7 @@ Mappings for:
     </tr>
             <tr>
     <td><a href="">15.1</a></td>
-    <td><a href="https://leetcode.com/problems/n-queens/">15.2</a></td>
+    <td><a href="https://leetcode.com/problems/n-queens/">15.3</a></td>
     <td><a href="https://leetcode.com/problems/permutations/">15.3</a></td>
     <td><a href="https://leetcode.com/problems/subsets/">15.4</a>, <a href="https://leetcode.com/problems/sudoku-solver">15.9</a></td>
     <td><a href="">15.6</a>, <a href="https://leetcode.com/problems/gray-code/">15.10</a></td>
@@ -339,7 +339,8 @@ Mappings for:
 | Problem | LeetCode |
 |---------|----------|
 | 15.1       | []() |
-| 15.2 | [51. N-Queens](https://leetcode.com/problems/n-queens/) |
+| 15.2       | []() |
+| 15.3 | [51. N-Queens](https://leetcode.com/problems/n-queens/) |
 | 15.3 | [46. Permutations](https://leetcode.com/problems/permutations/) |
 | 15.4 | [78. Subsets](https://leetcode.com/problems/subsets/) |
 | 15.5 | []() |
