@@ -107,7 +107,7 @@ Mappings for:
     <td><a href="https://leetcode.com/problems/n-queens/">15.3</a></td>
     <td><a href="https://leetcode.com/problems/permutations/">15.4</a></td>
     <td><a href="https://leetcode.com/problems/subsets/">15.5</a>, <a href="https://leetcode.com/problems/sudoku-solver">15.9</a></td>
-    <td><a href="">15.7</a>, <a href="https://leetcode.com/problems/gray-code/">15.10</a></td>
+    <td><a href="https://leetcode.com/problems/generate-parentheses/">15.7</a>, <a href="https://leetcode.com/problems/gray-code/">15.10</a></td>
     </tr>
     <tr>
     <td><a href="">16.1</a></td>
